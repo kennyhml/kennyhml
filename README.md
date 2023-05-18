@@ -1,12 +1,12 @@
 # Kenny Hommel 
-**`Passionate Software Developer | Streamlining Repetition with Intelligent Automation`**
+**`Passionate Software Developer | Automating Repetitive Tasks for Enhanced Experiences`**
 
-Hi there! I'm Kenny, an aspiring software developer with a strong focus on Python and a passion for creating automation solutions that tackle repetitive tasks. My journey began with building bots for video games, and it has been an exhilarating experience filled with continuous learning, meticulous project development, and the exploration of new principles and design patterns.
+I'm Kenny, an aspiring software developer with fondness for Python and a passion for creating automation solutions that tackle repetitive tasks.
 
-Throughout my endeavors, I have honed my skills in Python and gained a deep understanding of its capabilities. I have leveraged this knowledge to develop projects from the ground up, crafting custom solutions that streamline and optimize repetitive processes.
+Throughout my journey, I have honed my skills in Python and gained a deep understanding of its capabilities. I have leveraged this knowledge to develop projects from the ground up, crafting custom solutions that streamline and optimize repetitive processes.
 
-I have developed bots that can handle repetitive actions, freeing up valuable time and energy for gamers to focus on the aspects of the game they enjoy the most. While crafting my automation solutions, I always prioritize the experience and fairness of other players. I understand the importance of ensuring that my work does not negatively impact or disrupt the gaming ecosystem. Rest assured that I am committed to upholding ethical standards and creating solutions that contribute positively to the gaming community.
+My work revolves around developing bots that handle repetitive actions, freeing up precious time and energy for gamers to focus on the aspects of the game they enjoy the most. Please note that I prioritize the experience and fairness of other players, ensuring that my solutions have a positive impact on the gaming community without causing disruption.
 
-For my personally, creating video game bots was a great way to get into programming, as it combined doing what I liked previously with doing what I wanted to do in the future.
+Creating video game bots was the perfect gateway into programming for me. It combined my pre-existing interest with my ideas for the future, providing a solid motivation for my continued growth as a software developer.
 
-Personally, creating video game bots served as a great entry point into programming for me. It bridged my existing interest for gaming with my aspirations of becoming a skilled developer. This allowed me to leverage my pre-existing interest and stay dedicated to learning.
+With this foundation, I have expanded my skill set in areas such as computer vision, graphical user interfaces, web development, and database management. Through practical experience, I have gained applied knowledge in computer vision using cv2 and numpy, designed graphical user interfaces with PyQt and matplotlib, and effectively managed user data and API endpoints using Flask, Django, SQL, MongoDB, and requests.
