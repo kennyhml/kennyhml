@@ -27,7 +27,7 @@ With this foundation, I have expanded my skill set in areas such as computer vis
 #
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennyhml&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kennyhml&show_icons=true&theme=gruvbox)
 
 
 
